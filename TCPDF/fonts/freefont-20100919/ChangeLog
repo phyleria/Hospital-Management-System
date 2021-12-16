@@ -5876,7 +5876,7 @@ $Id: ChangeLog,v 1.257 2010/09/19 13:15:07 Stevan_White Exp $
 	* sfd/FreeSans.sfd - Added Devanagari and Gujarati glyphs from the
 	Akruti Indic fonts.
 
-	* www/index.html - Added information on Rogier van Dalen's tools.
+	* www/ - Added information on Rogier van Dalen's tools.
 
 	* AUTHORS - Added M.S. Sridhar.
 
